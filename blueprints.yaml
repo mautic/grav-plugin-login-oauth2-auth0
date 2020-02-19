@@ -5,11 +5,11 @@ icon: plug
 author:
   name: Tanay Sai (sponsored by Acquia/Mautic)
   email: saitanay@gmail.com
-homepage: https://github.com/saitanay/grav-plugin-login-o-auth2-auth0
-demo: https://github.com/saitanay/grav-plugin-login-o-auth2-auth0
+homepage: https://github.com/saitanay/grav-plugin-login-oauth2-auth0
+demo: https://github.com/saitanay/grav-plugin-login-oauth2-auth0
 keywords: grav, plugin, auth0, mautic, acquia
-bugs: https://github.com/saitanay/grav-plugin-login-o-auth2-auth0/issues
-docs: https://github.com/saitanay/grav-plugin-login-o-auth2-auth0/blob/develop/README.md
+bugs: https://github.com/saitanay/grav-plugin-login-oauth2-auth0/issues
+docs: https://github.com/saitanay/grav-plugin-login-oauth2-auth0/README.md
 license: MIT
 dependencies:
   - { name: login-oauth2, version: '~1.0' }

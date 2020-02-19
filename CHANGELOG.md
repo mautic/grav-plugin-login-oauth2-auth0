@@ -1,3 +1,9 @@
+# v1.2
+## 02/20/2020
+
+1. [](#maintenance)
+    * Update repo name to be inline with grav-plugin-login-oauth2-XXXX
+
 # v1.1
 ## 02/20/2020
 
