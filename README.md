@@ -12,6 +12,8 @@ The simplest way to install this plugin is via the [Grav Package Manager (GPM)](
 
     bin/gpm install login-o-auth2-auth0
 
+*NOTE:* For GPM installation to work, Grav CMS should list this plugin on official repo as requested [here](https://github.com/getgrav/grav/issues/2830). 
+
 This will install the Login O Auth2 Auth0 plugin into your `/user/plugins` directory within Grav. Its files can be found under `/your/site/grav/user/plugins/login-o-auth2-auth0`.
 
 ### Manual Installation
