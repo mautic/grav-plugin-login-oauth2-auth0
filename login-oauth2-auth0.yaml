@@ -1,5 +1,5 @@
-enabled: false
+enabled: true
 client_id: 'test'
 client_secret: ''
 domain: ''
-scope: ['users:read', 'users:read.email']
+scope: ['openid','profile','email']
