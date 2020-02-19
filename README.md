@@ -1,7 +1,5 @@
 # Login O Auth2 Auth0 Plugin
 
-**This README.md file should be modified to describe the features, installation, configuration, and general usage of this plugin.**
-
 The **Login O Auth2 Auth0** Plugin is for [Grav CMS](http://github.com/getgrav/grav). OAuth2 Provider for Auth0
 
 ## Installation
