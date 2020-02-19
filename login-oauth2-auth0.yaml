@@ -1,0 +1,5 @@
+enabled: false
+client_id: 'test'
+client_secret: ''
+domain: ''
+scope: ['users:read', 'users:read.email']
