@@ -49,11 +49,10 @@ Note that if you use the admin plugin, a file with your configuration, and named
 
 ## Usage
 
-**Describe how to use the plugin.**
+**Enable the plugin and follow on-screen instructions.**
 
 ## Credits
-
-**This module wasn't written entirely from scratch. This is largely based on https://github.com/trilbymedia/grav-plugin-login-oauth2-slack . All credits to the original authors.**
+*This module wasn't written entirely from scratch. This is largely based on https://github.com/trilbymedia/grav-plugin-login-oauth2-slack . All credits to the original authors.*
 
 ## To Do
 
