@@ -35,11 +35,11 @@ Before configuring this plugin, you should copy the `user/plugins/login-oauth2-a
 Here is the default configuration and an explanation of available options:
 
 ```yaml
-enabled: false
-client_id: 'test'
+enabled: true
+client_id: ''
 client_secret: ''
 domain: ''
-scope: ['users:read', 'users:read.email']
+scope: ['openid','profile','email']
 ```
 Module is disabled by default. Client Id, Client Secret and Domain can be procured from your Auth0 Dashboard. Scope - don't change this unless you know what you are changing.
 
