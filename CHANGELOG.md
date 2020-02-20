@@ -1,3 +1,9 @@
+# v1.0.5
+## 02/20/2020
+
+1. [](#maintenance)
+    * Updated dependency version of login-oauth2 plugin to ~2.0.2 
+
 # v1.0.4
 ## 02/20/2020
 
