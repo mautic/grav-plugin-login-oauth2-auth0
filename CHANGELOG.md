@@ -1,3 +1,9 @@
+# v1.0.4
+## 02/20/2020
+
+1. [](#maintenance)
+    * Updated release version numbers in blueprint. 
+
 # v1.0.3
 ## 02/20/2020
 
