@@ -1,10 +1,17 @@
-# v1.2
+# v1.0.3
 ## 02/20/2020
 
 1. [](#maintenance)
-    * Update repo name to be inline with grav-plugin-login-oauth2-XXXX
+    * Fixed release version numbering
+    * Updated readme to remove link to issue requesting plugin to be whitelisted for gpm.
 
-# v1.1
+# v1.0.2
+## 02/20/2020
+
+1. [](#maintenance)
+    * Update repo name to be inline with grav-plugin-login-oauth2-XXXX.
+
+# v1.0.1
 ## 02/20/2020
 
 1. [](#maintenance)

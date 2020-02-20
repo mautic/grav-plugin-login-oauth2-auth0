@@ -12,8 +12,6 @@ The simplest way to install this plugin is via the [Grav Package Manager (GPM)](
 
     bin/gpm install login-oauth2-auth0
 
-*NOTE:* For GPM installation to work, Grav CMS should list this plugin on official repo as requested [here](https://github.com/getgrav/grav/issues/2830). 
-
 This will install the Login OAuth2 Auth0 plugin into your `/user/plugins` directory within Grav. Its files can be found under `/your/site/grav/user/plugins/login-oauth2-auth0`.
 
 ### Manual Installation
@@ -52,9 +50,9 @@ Note that if you use the admin plugin, a file with your configuration, and named
 **Enable the plugin and follow on-screen instructions.**
 
 ## Credits
-*This module wasn't written entirely from scratch. This is largely based on https://github.com/trilbymedia/grav-plugin-login-oauth2-slack . All credits to the original authors.*
+This module wasn't written entirely from scratch. This is largely based on https://github.com/trilbymedia/grav-plugin-login-oauth2-slack . All credits to the original authors.
 
 ## To Do
 
-- [ ] Let the future pan out by itself.
+- [ ] Nothing yet.
 
