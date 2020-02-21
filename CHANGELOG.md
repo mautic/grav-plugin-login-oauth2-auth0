@@ -1,3 +1,10 @@
+# v1.0.6
+## 02/20/2020
+
+1. [](#maintenance)
+    * Removed version number for login-oauth2 dependency.  
+
+
 # v1.0.5
 ## 02/20/2020
 
