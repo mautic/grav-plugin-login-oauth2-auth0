@@ -1,3 +1,9 @@
+# v1.0.7
+## 02/20/2020
+
+1. [](#maintenance)
+    * Updated dependency version. https://github.com/getgrav/grav/issues/2833  
+
 # v1.0.6
 ## 02/20/2020
 

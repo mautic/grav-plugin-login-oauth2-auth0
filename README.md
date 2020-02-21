@@ -14,6 +14,8 @@ The simplest way to install this plugin is via the [Grav Package Manager (GPM)](
 
 This will install the Login OAuth2 Auth0 plugin into your `/user/plugins` directory within Grav. Its files can be found under `/your/site/grav/user/plugins/login-oauth2-auth0`.
 
+Known issue with gpm installation - https://github.com/getgrav/grav/issues/2833
+
 ### Manual Installation
 
 To install this plugin, just download the zip version of this repository and unzip it under `/your/site/grav/user/plugins`. Then, rename the folder to `login-oauth2-auth0`. You can find these files on [GitHub](https://github.com/trilbymedia/grav-plugin-login-oauth2-auth0) or via [GetGrav.org](http://getgrav.org/downloads/plugins#extras).
