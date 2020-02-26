@@ -1,3 +1,10 @@
+# v1.0.9
+## 02/26/2020
+
+1. [](#bug)
+    * Fixed issue with incorrect dependency warning on admin pages.  
+
+
 # v1.0.8
 ## 02/26/2020
 
