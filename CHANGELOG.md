@@ -1,3 +1,10 @@
+# v1.0.8
+## 02/26/2020
+
+1. [](#bug)
+    * Fixed an issue with config variables.  
+
+
 # v1.0.7
 ## 02/20/2020
 
