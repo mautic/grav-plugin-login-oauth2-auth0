@@ -28,11 +28,11 @@ You should now have all the plugin files under
 
 ### Admin Plugin
 
-If you use the admin plugin, you can install directly through the admin plugin by browsing the `Plugins` tab and clicking on the `Add` button.
+If you use the admin plugin manager, you can install directly through the admin panel by browsing the `Plugins` tab and clicking on the `Add` button.
 
 ## Configuration
 
-Before configuring this plugin, you should copy the `user/plugins/login-oauth2-auth0/login-oauth2-auth0.yaml` to `user/config/plugins/login-oauth2-auth0.yaml` and only edit that copy.
+If configuring this plugin via the configuration file, be sure to copy the `user/plugins/login-oauth2-auth0/login-oauth2-auth0.yaml` file to `user/config/plugins/login-oauth2-auth0.yaml` and only edit that copy. This prevents accidental exposure of credentials in the plugins directory via backups or git-sync.
 
 Here is the default configuration and an explanation of available options:
 
@@ -43,9 +43,11 @@ client_secret: ''
 domain: ''
 scope: ['openid','profile','email']
 ```
-Module is disabled by default. Client Id, Client Secret and Domain can be procured from your Auth0 Dashboard. Scope - don't change this unless you know what you are changing.
+The module is disabled by default. Client Id, Client Secret and Domain can be procured from your Auth0 Dashboard. Scope - don't change this unless you know what you are changing.
 
-Note that if you use the admin plugin, a file with your configuration, and named login-oauth2-auth0.yaml will be saved in the `user/config/plugins/` folder once the configuration is saved in the admin.
+When creating your application in Auth0, you can find the callback URLs from the settings in the OAuth2 plugin. If you do not add these to your application as directed by Auth0, the Grav site will not be able to authenticate against Auth0.
+
+Note that if you use the admin user interface to update this plugin, a file with your configuration, and named login-oauth2-auth0.yaml will be automatically saved in the `user/config/plugins/` folder once the configuration is saved in the admin.
 
 ## Usage
 
